@@ -1,7 +1,7 @@
 package = "Sample_RTComponent"
 version = "1.0.0-3"
 source = {
-   url = ""
+   url = "git://github.com/Nobu19800/Sample_RTComponent"
 }
 
 description = {
