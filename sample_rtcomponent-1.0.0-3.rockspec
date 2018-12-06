@@ -1,12 +1,11 @@
 package = "Sample_RTComponent"
-version = "1.0.0-1"
+version = "1.0.0-3"
 source = {
-   url = "",
-   dir = "",
+   url = ""
 }
 
 description = {
-   summary = "ModuleDescription",
+   summary = "Sample RTComponent",
    detailed = [[
 
    ]],
